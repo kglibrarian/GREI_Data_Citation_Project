@@ -1,3 +1,14 @@
+# Input data (the DataCite DOI list)
+data/
+
+# Everything the notebooks write: results, logs, manifest, inventories, package
+GREI_WoS_outputs/
+
+# Any other folders you want kept out
+archive/
+.ipynb_checkpoints/
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
